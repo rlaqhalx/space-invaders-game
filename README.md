@@ -1,2 +1,3 @@
-# space-invaders-game
-Space Invader Game with Vanilla JavaScript 
+# Space Invaders Game
+
+Space Invader Game with Vanilla JavaScript
